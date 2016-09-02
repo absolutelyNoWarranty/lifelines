@@ -607,7 +607,7 @@ of time to birth. This is available as the ``cumulative_density_`` property afte
 
 .. code:: python
     
-    kmf.cumulative_density_
+    print kmf.cumulative_density_
     kmf.plot() #will plot the CDF
 
 
